@@ -3,9 +3,9 @@
 
 # Introduction
 
-The PayPal platform is a collection of reusable services that encapsulate well-defined business capabilities. Developers are encouraged to access these capabilities through Application Programming Interfaces (APIs) that enable consistent design patterns and principles. This facilitates a great developer experience and the ability to quickly compose complex business processes by combining multiple, complementary capabilities as building blocks.
+The Sysco platform is a collection of reusable services that encapsulate well-defined business capabilities. Developers are encouraged to access these capabilities through Application Programming Interfaces (APIs) that enable consistent design patterns and principles. This facilitates a great developer experience and the ability to quickly compose complex business processes by combining multiple, complementary capabilities as building blocks.
 
-PayPal APIs follow the [RESTful][0] architectural style as much as possible. To support our objectives, we have developed a set of rules, standards, and conventions that apply to the design of RESTful APIs. These have been used to help design and maintain hundreds of APIs and have evolved over several years to meet the needs of a wide variety of use cases.
+Sysco APIs follow the [RESTful][0] architectural style as much as possible. To support our objectives, we have developed a set of rules, standards, and conventions that apply to the design of RESTful APIs. These have been used to help design and maintain hundreds of APIs and have evolved over several years to meet the needs of a wide variety of use cases.
 
 We are sharing these guidelines to help propagate good API design practices in general. We have pulled extensively from the broader community and believe that it is important to give back. The documentation is as generic as possible to make it easier to incorporate into the guidelines you use in your projects. If you have any updates, suggestions, or additions that you would like to contribute, please feel free to submit a PR or create an issue.
 
@@ -23,8 +23,7 @@ URIs containing variable blocks are specified according to [URI Template RFC 657
 HTTP headers are written in camelCase + hyphenated syntax, e.g. Foo-Request-Id.
 
 ### Contributors
-
-[Sanjay Dalal](https://www.linkedin.com/in/sanjaydalal) (former member: PayPal API Platform), [Jason Harmon](https://es.linkedin.com/in/jasonhnaustin) (former member: PayPal API Platform), [Erik Hogan](https://www.linkedin.com/in/erik-hogan-81431) (PayPal API Platform), [Jayadeba Jena](https://www.linkedin.com/in/jayadeba-jena-1a6a0020) (PayPal API Platform), [Nikhil Kolekar](https://www.linkedin.com/in/nikhil-kolekar-28627a2/) (PayPal API Platform), [Gagan Maheshwari](https://www.linkedin.com/in/gaganmaheshwari) (former member: PayPal API Platform), [Michael McKenna](http://linkedin.com/in/mgmckenna) (PayPal Globalization), [George Petkov](https://www.linkedin.com/in/gbpetkov) (former member: PayPal API Platform) and Andrew Todd (PayPal Credit).
+The Sysco API standards are based on Paypal's see https://github.com/paypal/api-standards for more details.
 
 # Table Of Contents
 
