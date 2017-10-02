@@ -129,7 +129,7 @@ REST components perform actions on a resource by using a representation to captu
 
 <h4 id="domain">Domain</h4>
 
-According to Wikipedia, a [domain model](https://en.wikipedia.org/wiki/Domain_model) is a system of abstractions that describes selected aspects of a sphere of knowledge, influence, or activity. The concepts include the data involved in a business, and the rules that the business uses in relation to that data. As an example, the PayPal domain model includes domains such as Payment, Risk, Compliance, Identity, Customer Support, etc.
+According to Wikipedia, a [domain model](https://en.wikipedia.org/wiki/Domain_model) is a system of abstractions that describes selected aspects of a sphere of knowledge, influence, or activity. The concepts include the data involved in a business, and the rules that the business uses in relation to that data. 
 
 <h4 id="capability">Capability</h4>
 
