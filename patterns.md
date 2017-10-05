@@ -12,7 +12,7 @@ The words "REST" and "RESTful" MUST be written as presented here, representing t
 
 Machine-readable text, such as URLs, HTTP verbs, and source code, are represented using a fixed-width font.
 
-URIs containing variable blocks are pecified according to [URI Template RFC 6570](https://tools.ietf.org/html/rfc6570). For example, a URL containing a variable called account_id would be shown as https://paypal.com/accounts/{account_id}/.
+URIs containing variable blocks are pecified according to [URI Template RFC 6570](https://tools.ietf.org/html/rfc6570). For example, a URL containing a variable called account_id would be shown as https://api.sysco.com/v1/pr/accounts/{account_id}/.
 
 HTTP headers are written in camelCase + hyphenated syntax, e.g. Foo-Request-Id.
 
